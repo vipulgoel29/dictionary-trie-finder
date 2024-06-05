@@ -1,6 +1,6 @@
 {
   "name": "dictionary-trie-finder",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Dictionary trie finder with add on functionality with files and manipulations",
   "main": "index.ts",
   "repository": {
